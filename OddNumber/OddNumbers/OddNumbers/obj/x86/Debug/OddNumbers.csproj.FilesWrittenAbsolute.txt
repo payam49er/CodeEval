@@ -1,0 +1,5 @@
+/Users/payam/Documents/Coding/OddNumber/OddNumbers/OddNumbers/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/payam/Documents/Coding/OddNumber/OddNumbers/OddNumbers/bin/Debug/OddNumbers.exe.mdb
+/Users/payam/Documents/Coding/OddNumber/OddNumbers/OddNumbers/bin/Debug/OddNumbers.exe
+/Users/payam/Documents/Coding/OddNumber/OddNumbers/OddNumbers/obj/x86/Debug/OddNumbers.exe
+/Users/payam/Documents/Coding/OddNumber/OddNumbers/OddNumbers/obj/x86/Debug/OddNumbers.exe.mdb
