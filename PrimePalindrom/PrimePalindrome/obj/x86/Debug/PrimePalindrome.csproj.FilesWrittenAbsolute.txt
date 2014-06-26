@@ -1,0 +1,5 @@
+/Users/payam/Projects/PrimePalindrome/PrimePalindrome/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/payam/Projects/PrimePalindrome/PrimePalindrome/bin/Debug/PrimePalindrome.exe.mdb
+/Users/payam/Projects/PrimePalindrome/PrimePalindrome/bin/Debug/PrimePalindrome.exe
+/Users/payam/Projects/PrimePalindrome/PrimePalindrome/obj/x86/Debug/PrimePalindrome.exe
+/Users/payam/Projects/PrimePalindrome/PrimePalindrome/obj/x86/Debug/PrimePalindrome.exe.mdb
